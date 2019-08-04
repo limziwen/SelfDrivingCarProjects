@@ -7,7 +7,7 @@ This project contains several algorithms
 This detects lane lines from an image or video using cv2.
 
 2. Binary Classifier
-Uses feedforward, backward propagation to create a line to classify between binary data
+A deep neural network to classify points on a graph. 
 
 
 3. Classifier
