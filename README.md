@@ -1,9 +1,9 @@
 # SelfDrivingCarProjects
 A set of programs used in self driving cars, using python and open cv. 
 
-This project contains several algorithms
 
-Laneline detection
+
+<b>Laneline detection</b>
 This detects lane lines from an image or video using cv2.
 
 Binary Classification
